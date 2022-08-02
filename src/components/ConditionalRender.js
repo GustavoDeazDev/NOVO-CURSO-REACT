@@ -10,10 +10,10 @@ const ConditionalRender = () =>{
         <div>
           
                 {name === "João" ? 
-                (
-                    <div>
-    <p>O nome é João</p>
-</div>
+                ( <div>
+                    <p>O nome é João</p>
+                    </div>
+   
 
                 ):
                 (
